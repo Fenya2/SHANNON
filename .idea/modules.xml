@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/shenons_entropy.iml" filepath="$PROJECT_DIR$/.idea/shenons_entropy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shanons_entropy.iml" filepath="$PROJECT_DIR$/.idea/shanons_entropy.iml" />
     </modules>
   </component>
 </project>
