@@ -1,0 +1,3 @@
+node main.js FILENAME
+
+calculates entropy using Shannon's formula
